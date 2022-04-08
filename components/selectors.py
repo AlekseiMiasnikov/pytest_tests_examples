@@ -1,0 +1,5 @@
+H2 = '//h2'
+LOGIN = '//input[@type="text" and @placeholder="Логин"]'
+PASSWORD = '//input[@type="password" and @placeholder="Пароль"]'
+LOGIN_BUTTON = '//*[contains(text(), "Войти")]'
+AUTH_LOGIN_SYSTEM = '//div[@class="login_text"]'
